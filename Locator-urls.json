@@ -1,1 +1,15 @@
-[]
+{
+  "officeLinks": [
+    {
+      "ID": "locator",
+      "displayItem": "Jeevan Bima Bazaar",
+      "insertLink": "https://locator.jeevanbimabazaar.com/p/location-of-lic.html"
+    },
+    {
+      "ID": "licBranchLocatorEn",
+      "displayItem": "Search LIC Branch Office",
+      "insertLink": "https://locator.jeevanbimabazaar.com/p/search-lic-branch-office.html"
+    }
+  ],
+  "importantLinks": []
+}
