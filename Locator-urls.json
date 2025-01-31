@@ -9,6 +9,21 @@
       "ID": "licBranchLocatorEn",
       "displayItem": "Search LIC Branch Office",
       "insertLink": "https://locator.jeevanbimabazaar.com/p/search-lic-branch-office.html"
+    },
+    {
+      "ID": "findIndianBirthday",
+      "displayItem": "Find Indian Celebrity Birthdays",
+      "insertLink": "https://locator.jeevanbimabazaar.com/p/birthdays-of-famous-indian-celebrities.html"
+    },
+    {
+      "ID": "postalAddress",
+      "displayItem": "Post Office Address Book",
+      "insertLink": "https://locator.jeevanbimabazaar.com/p/post-office-address-book.html"
+    },
+    {
+      "ID": "locatorRegistrationForm",
+      "displayItem": "Locator Registration Form",
+      "insertLink": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html"
     }
   ],
   "importantLinks": []
