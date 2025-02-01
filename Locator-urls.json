@@ -24,7 +24,285 @@
       "ID": "locatorRegistrationForm",
       "displayItem": "Locator Registration Form",
       "insertLink": "https://locator.jeevanbimabazaar.com/p/locator-registration-form.html"
+    },
+    {
+      "ID": "licCoMumbai",
+      "displayItem": "LIC Central Office Mumbai",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-central-office-details.html"
+    },
+    {
+      "ID": "licZoPatna",
+      "displayItem": "LIC Zonal Office Patna",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-patna.html"
+    },
+    {
+      "ID": "licZoBhopal",
+      "displayItem": "LIC Zonal Office Bhopal",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-bhopal.html"
+    },
+    {
+      "ID": "licZoKolkata",
+      "displayItem": "LIC Zonal Office Kolkata",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-kolkata.html"
+    },
+    {
+      "ID": "licZoKanpur",
+      "displayItem": "LIC Zonal Office Kanpur",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-kanpur.html"
+    },
+    {
+      "ID": "licZoMumbai",
+      "displayItem": "LIC Zonal Office Mumbai",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-mumbai.html"
+    },
+    {
+      "ID": "licZoChennai",
+      "displayItem": "LIC Zonal Office Chennai",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-of-india-southern-zonal-office.html"
+    },
+    {
+      "ID": "licZoDelhi",
+      "displayItem": "LIC Zonal Office Delhi",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-delhi.html"
+    },
+    {
+      "ID": "licZoHyderabad",
+      "displayItem": "LIC Zonal Office Hyderabad",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-hyderabad.html"
     }
   ],
-  "importantLinks": []
+  "importantLinks": [
+    {
+      "ID": "licFacebook",
+      "displayItem": "LIC Facebook Account (Official)",
+      "insertLink": "https://www.facebook.com/LICIndiaForever"
+    },
+    {
+      "ID": "licX",
+      "displayItem": "LIC X Account (Official)",
+      "insertLink": "https://x.com/LICIndiaForever"
+    },
+    {
+      "ID": "licLinkedin",
+      "displayItem": "LIC Linked-in Account (Official)",
+      "insertLink": "https://www.linkedin.com/company/lic/"
+    },
+    {
+      "ID": "licYouTube",
+      "displayItem": "LIC YouTube Account (Official)",
+      "insertLink": "https://www.youtube.com/user/licindiaforever"
+    },
+    {
+      "ID": "licOfficialWebsite",
+      "displayItem": "LIC Official Website",
+      "insertLink": "https://licindia.in/"
+    },
+    {
+      "ID": "licCusAppPlayStore",
+      "displayItem": "Play Store App",
+      "insertLink": "https://play.google.com/store/apps/details?id=com.lic.liccustomer&hl=en_IN"
+    },
+    {
+      "ID": "licCusApplAppStore",
+      "displayItem": "App Store App",
+      "insertLink": "https://apps.apple.com/in/app/lic-digital/id1324159013"
+    }
+  ],
+  "displayItems": [
+    {
+      "ID": "licCallCenter",
+      "displayItem": "022-6827-6827",
+      "insertLink": ""
+    },
+    {
+      "ID": "licHealthPlanCallCenter",
+      "displayItem": "1800-425-9876",
+      "insertLink": ""
+    },
+    {
+      "ID": "IndiPolStetusSmsService",
+      "displayItem": "ASKLIC <POLICY NO> STAT",
+      "insertLink": ""
+    },
+    {
+      "ID": "IndiPolPremiumSmsService",
+      "displayItem": "ASKLIC <POLICY NO> PREMIUM",
+      "insertLink": ""
+    },
+    {
+      "ID": "IndiPolBonusSmsService",
+      "displayItem": "ASKLIC <POLICY NO> BONUS",
+      "insertLink": ""
+    },
+    {
+      "ID": "IndiPolRevivalSmsService",
+      "displayItem": "ASKLIC <POLICY NO> REVIVAL",
+      "insertLink": ""
+    },
+    {
+      "ID": "IndiPolNominationSmsService",
+      "displayItem": "ASKLIC <POLICY NO> NOMINATION",
+      "insertLink": ""
+    },
+    {
+      "ID": "PenPolStetusSmsService",
+      "displayItem": "ASKLIC <POLICY NO> STAT",
+      "insertLink": ""
+    },
+    {
+      "ID": "PenPolExiCertDue",
+      "displayItem": "ASKLIC <POLICY NO> ECDUE",
+      "insertLink": ""
+    },
+    {
+      "ID": "PenPolAnnRelDate",
+      "displayItem": "ASKLIC <POLICY NO> ANNPD",
+      "insertLink": ""
+    },
+    {
+      "ID": "PenPolAnnPayment",
+      "displayItem": "ASKLIC <POLICY NO> PDTHRU",
+      "insertLink": ""
+    },
+    {
+      "ID": "PenPolAnnAmoDet",
+      "displayItem": "ASKLIC <POLICY NO> AMOUNT",
+      "insertLink": ""
+    },
+    {
+      "ID": "PenPolCheqRetStatus",
+      "displayItem": "ASKLIC <POLICY NO> CHQRET",
+      "insertLink": ""
+    },
+    {
+      "ID": "licOffOpeTime",
+      "displayItem": "10:00 AM",
+      "insertLink": ""
+    },
+    {
+      "ID": "licOffCloTime",
+      "displayItem": "05:30 PM",
+      "insertLink": ""
+    },
+    {
+      "ID": "licCasOpeTime",
+      "displayItem": "10:00 AM",
+      "insertLink": ""
+    },
+    {
+      "ID": "licCasCloTime",
+      "displayItem": "04:15 PM",
+      "insertLink": ""
+    },
+    {
+      "ID": "liclunOpeTime",
+      "displayItem": "01:30 PM",
+      "insertLink": ""
+    },
+    {
+      "ID": "liclunCloTime",
+      "displayItem": "05:00 PM",
+      "insertLink": ""
+    },
+    {
+      "ID": "licWhatsApp",
+      "displayItem": "8976862090",
+      "insertLink": ""
+    },
+    {
+      "ID": "licCreditCardSupport",
+      "displayItem": "011-45512817",
+      "insertLink": ""
+    },
+    {
+      "ID": "licSmsHelp1",
+      "displayItem": "9222492224",
+      "insertLink": ""
+    },
+    {
+      "ID": "licSmsHelp2",
+      "displayItem": "56767877",
+      "insertLink": ""
+    },
+    {
+      "ID": "licOnlineSupportEmail",
+      "displayItem": "bo_eps1@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licCreditCardSupportEmail",
+      "displayItem": "lic-creditcard@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licAgentSupportEmail",
+      "displayItem": "agent_support@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licAgentPortalSupportEmail",
+      "displayItem": "portalsupport@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licZO01-1",
+      "displayItem": "011-49901400",
+      "insertLink": ""
+    },
+    {
+      "ID": "licZO01-2",
+      "displayItem": "011-49901401",
+      "insertLink": ""
+    },
+    {
+      "ID": "licZO01Email-1",
+      "displayItem": "nz_cc@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licZO01Email-2",
+      "displayItem": "customerzone_delhi@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivD018-1",
+      "displayItem": "0145-266091",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivD018-2",
+      "displayItem": "0145-2660083",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivEmailD018-1",
+      "displayItem": "sdm.ajmer@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivEmailD018-2",
+      "displayItem": "crm.ajmer@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivD047-1",
+      "displayItem": "0183-2504961",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivD047-2",
+      "displayItem": "0183-2504965",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivEmailD047-1",
+      "displayItem": "sdm.amritsar@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivEmailD047-2",
+      "displayItem": "crm.amritsar@licindia.com",
+      "insertLink": ""
+    }
+  ]
 }
