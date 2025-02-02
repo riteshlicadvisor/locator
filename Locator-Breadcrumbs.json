@@ -1,0 +1,616 @@
+{
+  "Sheet1": [
+    {
+      "areaName": "null",
+      "officeType": "null",
+      "pageName": "Home",
+      "pageShortName": "Home",
+      "URL": "https://locator.jeevanbimabazaar.com/p/location-of-lic.html",
+      "parentArea": "null",
+      "parentOfficeType": "null"
+    },
+    {
+      "areaName": "Mumbai",
+      "officeType": "Central Office",
+      "pageName": "LIC Central Office Mumbai",
+      "pageShortName": "LIC CO Mumbai",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-central-office-details.html",
+      "parentArea": "Maharashtra",
+      "parentOfficeType": "Home"
+    },
+    {
+      "areaName": "Patna",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Patna",
+      "pageShortName": "LIC ZO Patna",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-patna.html",
+      "parentArea": "Bihar",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Bhopal",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Bhopal",
+      "pageShortName": "LIC ZO Bhopal",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-bhopal.html",
+      "parentArea": "Madhya Pradesh",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Kolkata",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Kolkata",
+      "pageShortName": "LIC ZO Kolkata",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-kolkata.html",
+      "parentArea": "West Bengal",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Kanpur",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Kanpur",
+      "pageShortName": "LIC ZO Kanpur",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-kanpur.html",
+      "parentArea": "Uttar Pradesh",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Mumbai",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Mumbai",
+      "pageShortName": "LIC ZO Mumbai",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-mumbai.html",
+      "parentArea": "Maharashtra",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Chennai",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Chennai",
+      "pageShortName": "LIC ZO Chennai",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-of-india-southern-zonal-office.html",
+      "parentArea": "Tamil Nadu",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Central Delhi",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Delhi",
+      "pageShortName": "LIC ZO Delhi",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-delhi.html",
+      "parentArea": "Delhi",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Hyderabad",
+      "officeType": "Zonal Office",
+      "pageName": "LIC Zonal Office Hyderabad",
+      "pageShortName": "LIC ZO Hyderabad",
+      "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-hyderabad.html",
+      "parentArea": "Telangana",
+      "parentOfficeType": "LIC Central Office Mumbai"
+    },
+    {
+      "areaName": "Ajmer",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Ajmer",
+      "pageShortName": "LIC Div D018",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/02/lic-ajmer-divisional-office.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Amritsar",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Amritsar",
+      "pageShortName": "LIC Div D047",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-divisional-office-amritsar.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Bikaner",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Bikaner",
+      "pageShortName": "LIC Div D050",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Bikaner.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Chandigarh",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Chandigarh",
+      "pageShortName": "LIC Div D016",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-chandigarh-403.html",
+      "parentArea": "Chandigarh",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "New Delhi",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Delhi I",
+      "pageShortName": "LIC Div D011",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Delhi-01.html",
+      "parentArea": "Delhi",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "East Delhi",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Delhi II",
+      "pageShortName": "LIC Div D012",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Delhi-02.html",
+      "parentArea": "Delhi",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "West Delhi",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Delhi III",
+      "pageShortName": "LIC Div D033",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Delhi-03.html",
+      "parentArea": "Delhi",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Jaipur",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Jaipur I",
+      "pageShortName": "LIC Div D019",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Jaipur-1.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Jaipur",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Jaipur II",
+      "pageShortName": "LIC Div D103",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Jaipur-2.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Jalandhar",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Jalandhar",
+      "pageShortName": "LIC Div D013",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-jalandhar.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Jodhpur",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Jodhpur",
+      "pageShortName": "LIC Div D010",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Jodhpur.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Karnal",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Karnal",
+      "pageShortName": "LIC Div D017",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-karnal.html",
+      "parentArea": "Haryana",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Ludhiana",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Ludhiana",
+      "pageShortName": "LIC Div D030",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-ludhiana.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Rohtak",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Rohtak",
+      "pageShortName": "LIC Div D102",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-rohtak.html",
+      "parentArea": "Haryana",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Shimla",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Shimla",
+      "pageShortName": "LIC Div D015",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Shimla.html",
+      "parentArea": "Himachal Pradesh",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Srinagar",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Srinagar",
+      "pageShortName": "LIC Div D014",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-divisional-office-srinagar.html",
+      "parentArea": "Jammu & Kashmir",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Udaipur",
+      "officeType": "Division Office",
+      "pageName": "LIC Divisional Office Udaipur",
+      "pageShortName": "LIC Div D101",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Udaipur.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Zonal Office Delhi"
+    },
+    {
+      "areaName": "Ajmer",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Ajmer - I",
+      "pageShortName": "LIC BO 181",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-181.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Ajmer",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Ajmer - II",
+      "pageShortName": "LIC BO 106",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-106.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Ajmer",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Ajmer, CAB",
+      "pageShortName": "LIC BO 29N",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-29n.html",
+      "parentArea": "rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Baran",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Baran",
+      "pageShortName": "LIC BO 18M",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18m.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Beawar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Beawar",
+      "pageShortName": "LIC BO 321",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-321.html",
+      "parentArea": "Ajmer",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Bhawanimandi",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Bhawanimandi",
+      "pageShortName": "LIC BO 29P",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-29p.html",
+      "parentArea": "Jhalawar",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Bhilwara",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Bhilwara - I",
+      "pageShortName": "LIC BO 198",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-198.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Azad Nagar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Bhilwara – II",
+      "pageShortName": "LIC BO 18U",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18u.html",
+      "parentArea": "Bhilwara",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Bijaynagar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Bijaynagar",
+      "pageShortName": "LIC BO 29R",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-29r.html",
+      "parentArea": "Ajmer",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Bundi",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Bundi",
+      "pageShortName": "LIC BO 18A",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18a.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Jhalawar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Jhalawar",
+      "pageShortName": "LIC BO 322",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-322.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Kekri",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Kekri",
+      "pageShortName": "LIC BO 1202",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-1202.html",
+      "parentArea": "Ajmer",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Kishangarh",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Kishangarh",
+      "pageShortName": "LIC BO 18F",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18f.html",
+      "parentArea": "Ajmer",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Kota",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Kota – I",
+      "pageShortName": "LIC BO 182",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-182.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Kota",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Kota – II",
+      "pageShortName": "LIC BO 109",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-109.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Kota",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Kota – III",
+      "pageShortName": "LIC BO 18X",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18x.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Kota",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Kota – CAB",
+      "pageShortName": "LIC BO 313",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-313.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Bundi",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Lakheri",
+      "pageShortName": "LIC BO 1201",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-1201.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Nasirabad",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Nasirabad",
+      "pageShortName": "LIC BO 18N",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18n.html",
+      "parentArea": "Ajmer",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Shahpura",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Shahpura",
+      "pageShortName": "LIC BO 18J",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18j.html",
+      "parentArea": "Bhilwara",
+      "parentOfficeType": "LIC Divisional Office Ajmer"
+    },
+    {
+      "areaName": "Barmer",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Barmer 183",
+      "pageShortName": "LIC BO 183",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-183.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Divisional Office Jodhpur"
+    },
+    {
+      "areaName": "Chohtan",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Chohtan 183T002",
+      "pageShortName": "LIC SO 183T002",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-chohtan-info.html",
+      "parentArea": "Barmer",
+      "parentOfficeType": "LIC Branch Office Barmer 183"
+    },
+    {
+      "areaName": "Gumanpura ",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Kota",
+      "pageShortName": "LIC SO 182T001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-kota-so-info.html",
+      "parentArea": "Kota",
+      "parentOfficeType": "LIC Branch Office Kota – I"
+    },
+    {
+      "areaName": "Itawa",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Itawa",
+      "pageShortName": "LIC SO 18XT001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-itawa-info.html",
+      "parentArea": "Kota",
+      "parentOfficeType": "LIC Branch Office Kota – III"
+    },
+    {
+      "areaName": "Jahazpur",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Jahazpur",
+      "pageShortName": "LIC SO 18JT001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-jahazpur-info.html",
+      "parentArea": "Bhilwara",
+      "parentOfficeType": "LIC Branch Office Shahpura"
+    },
+    {
+      "areaName": "Chhabra",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Chhabra",
+      "pageShortName": "LIC SO 18MT001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-chhabra-info.html",
+      "parentArea": "Baran",
+      "parentOfficeType": "LIC Branch Office Baran"
+    },
+    {
+      "areaName": "Pisangan",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Pisangan",
+      "pageShortName": "LIC SO 106T001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-pisangan-info.html",
+      "parentArea": "Ajmer",
+      "parentOfficeType": "LIC Branch Office Ajmer - II"
+    },
+    {
+      "areaName": "Nainwa",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Nainwa",
+      "pageShortName": "LIC SO 1201T001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-nainwa-info.html",
+      "parentArea": "Bundi",
+      "parentOfficeType": "LIC Branch Office Lakheri"
+    },
+    {
+      "areaName": "Ajmer",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Ajmer-1",
+      "pageShortName": "LIC SO 181T001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-ajmer-1-info.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Branch Office Ajmer - I"
+    },
+    {
+      "areaName": "Gangapur",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Gangapur",
+      "pageShortName": "LIC SO 18UT001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-gangapur-info.html",
+      "parentArea": "Bhilwara",
+      "parentOfficeType": "LIC Branch Office Bhilwara – II"
+    },
+    {
+      "areaName": "Asind",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Asind",
+      "pageShortName": "LIC SO 29RT001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-asind-info.html",
+      "parentArea": "Bhilwara",
+      "parentOfficeType": "LIC Branch Office Bijaynagar"
+    },
+    {
+      "areaName": "Bhilwara",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Bhilwara CLIA",
+      "pageShortName": "LIC SO 198C001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-bhilwara-clia-info.html",
+      "parentArea": "Rajasthan",
+      "parentOfficeType": "LIC Branch Office Bhilwara - I"
+    },
+    {
+      "areaName": "Mandalgarh",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Mandalgarh",
+      "pageShortName": "LIC SO 198T001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-mandalgarh-info.html",
+      "parentArea": "Bhilwara",
+      "parentOfficeType": "LIC Branch Office Bhilwara - I"
+    },
+    {
+      "areaName": "Kotri",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Kotri",
+      "pageShortName": "LIC SO 198T002",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-kotri-info.html",
+      "parentArea": "Bhilwara",
+      "parentOfficeType": "LIC Branch Office Bhilwara - I"
+    },
+    {
+      "areaName": "Ramganj Mandi",
+      "officeType": "Satellite Office",
+      "pageName": "LIC Satellite Office Ramganj Mandi",
+      "pageShortName": "LIC SO 29PT001",
+      "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-ramganj-mandi-info.html",
+      "parentArea": "Kota",
+      "parentOfficeType": "LIC Branch Office Bhawanimandi"
+    },
+    {
+      "areaName": "Abohar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Abohar",
+      "pageShortName": "LIC BO 149",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-abohar-149.html",
+      "parentArea": "Fazilka",
+      "parentOfficeType": "LIC Divisional Office Amritsar"
+    },
+    {
+      "areaName": "Amritsar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Amritsar, CAB",
+      "pageShortName": "LIC BO 329",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-329.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Divisional Office Amritsar"
+    },
+    {
+      "areaName": "Amritsar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Amritsar-I",
+      "pageShortName": "LIC BO 143",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-143.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Divisional Office Amritsar"
+    },
+    {
+      "areaName": "Amritsar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Amritsar-II",
+      "pageShortName": "LIC BO 146",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-146.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Divisional Office Amritsar"
+    },
+    {
+      "areaName": "Amritsar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Amritsar-III",
+      "pageShortName": "LIC BO 140",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-140.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Divisional Office Amritsar"
+    },
+    {
+      "areaName": "Amritsar",
+      "officeType": "Branch Office",
+      "pageName": "LIC Branch Office Amritsar-IV",
+      "pageShortName": "LIC BO 150",
+      "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-amritsar-150.html",
+      "parentArea": "Punjab",
+      "parentOfficeType": "LIC Divisional Office Amritsar"
+    }
+  ]
+}
